@@ -1,3 +1,3 @@
 This is my main webpage.
 
-<sup>This webpage is *far* from finished. Most of it's future content will be added in ~1 year. Stay Tuned!</sup>
+<sup>This webpage is *far* from finished. Most of it's future content will take ~1 year to add. Stay Tuned!</sup>
